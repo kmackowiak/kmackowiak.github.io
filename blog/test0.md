@@ -1,4 +1,4 @@
-# TEST 01 START
+# TEST 00 START
 
 One Paragraph of project description goes here
 
@@ -24,4 +24,4 @@ Say what the step will be
 Give the example
 ```
 
-TEST 02 END
+TEST 00 END
